@@ -1,4 +1,4 @@
-![mihon](https://github.com/test-okome/svelte-test/blob/master/mihon.pnh "mihon")
+![mihon](https://github.com/test-okome/svelte-test/blob/master/mihon.png "mihon")
 
 
 API取得しておく
